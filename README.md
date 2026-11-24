@@ -1,6 +1,8 @@
 # ap
+> [!WARNING]
+> This is just a research project with limited coverage, not a complete product or some serious shit.
 
-event-driven exploit protection engine.
+* event-driven exploit protection engine.
 
 build `make`  
 check `make check`  
