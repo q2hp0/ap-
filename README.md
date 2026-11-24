@@ -3,7 +3,8 @@
 > This is just a research project with limited coverage, not a complete product or some serious shit.
 
 * event-driven exploit protection engine.
-
+* by the way, this is an upgraded version of a project i built a while ago
+  
 build `make`  
 check `make check`  
 sanitize `make asan`  
